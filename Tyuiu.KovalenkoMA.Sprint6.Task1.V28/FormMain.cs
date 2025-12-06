@@ -26,7 +26,7 @@ namespace Tyuiu.KovalenkoMA.Sprint6.Task1.V28
                 textBoxResult_ Ã¿.Text = "";
                 textBoxResult_ Ã¿.AppendText("+----------+----------+" + Environment.NewLine);
                 textBoxResult_ Ã¿.AppendText("|    X     |   f(x)   |" + Environment.NewLine);
-                textBoxResult_ Ã¿.AppendText("+----------+----------+" + Environment.NewLine);
+                textBoxResult_ Ã¿.AppendText("+----------+----------+" + Environment.NewLine );
 
                 for (int i = 0; i <= len - 1; i++)
                 {
